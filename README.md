@@ -48,7 +48,7 @@ In this goal, you will:
 
 #### Free
 
-[register a free domain that's not a top level](http://www.freenom.com/en/index.html?lang=en)
+- [register a free domain that's not a top level](http://www.freenom.com/en/index.html?lang=en)
 [free web hosting #1](https://www.freehosting.com/)
 [free web hosting #2](https://www.000webhost.com/)
 [setting up business email for free](https://www.cloudwards.net/how-to-set-up-a-free-business-email/)
