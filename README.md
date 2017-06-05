@@ -42,14 +42,16 @@ In this goal, you will:
 
 #### Paid 
 
-[namecheap]: https://www.namecheap.com
-[google-domains]: https://aws.amazon.com/getting-started/tutorials/get-a-domain/
-
-
+[namecheap](https://www.namecheap.com)
+[google-domains](https://aws.amazon.com/getting-started/tutorials/get-a-domain/)
+[5 reasons why IO is a good choice](http://www.name.com/blog/domains/2016/06/why-io-powerful-domain-choice/)
 
 #### Free
 
 [register a free domain that's not a top level](http://www.freenom.com/en/index.html?lang=en)
+[free web hosting #1](https://www.freehosting.com/)
+[free web hosting #2](https://www.000webhost.com/)
+[setting up business email for free](https://www.cloudwards.net/how-to-set-up-a-free-business-email/)
 
 
 This is a great goal to choose if you've never registered your own domain, haven't set up mail servers through a hosting company, etc.
@@ -93,17 +95,8 @@ Example project for goal shows "proof of concept".
 
 ## Resources
 
-- [CONTRIBUTING][contributing] file in goal library - includes lengthy section on "Authoring a Goal"
-- Wiki entry: [Anatomy of a Good Learning Goal][anatomy-good-goal]
-- Some good goals to use for inspiration:
-  - [Pizza Restaurant (#98)][pizza-restaurant]
-  - [Set (the Game) with React (#120)][set-game]
-  - [Postalicious - Demystifying HTTP (#194)][postalicious]
-
 - [choosing domains](https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/)
 - [personal branding](https://skillcrush.com/2015/02/20/10-ways-build-personal-brand/)
 - [choose the right domain](https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/)
 - [more about hosting](https://webdesign.tutsplus.com/tutorials/the-seriously-comprehensive-guide-to-choosing-a-web-host--cms-25430)
 - [setting up gmail and registering a domain](http://www.coffeecup.com/help/articles/set-up-gmail-for-your-own-domain/)
-- [setting up business email for free](https://www.cloudwards.net/how-to-set-up-a-free-business-email/)
-
