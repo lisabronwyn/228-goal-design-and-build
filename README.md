@@ -101,10 +101,9 @@ Example project for goal shows "proof of concept".
   - [Postalicious - Demystifying HTTP (#194)][postalicious]
 
 - [choosing domains](https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/)
-- [personal-branding](https://skillcrush.com/2015/02/20/10-ways-build-personal-brand/)
-- [choose-the-right-domain](https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/)
-- [more-about-hosting](https://webdesign.tutsplus.com/tutorials/the-seriously-comprehensive-guide-to-choosing-a-web-host--cms-25430)
+- [personal branding](https://skillcrush.com/2015/02/20/10-ways-build-personal-brand/)
+- [choose the right domain](https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/)
+- [more about hosting](https://webdesign.tutsplus.com/tutorials/the-seriously-comprehensive-guide-to-choosing-a-web-host--cms-25430)
 - [setting up gmail and registering a domain](http://www.coffeecup.com/help/articles/set-up-gmail-for-your-own-domain/)
 - [setting up business email for free](https://www.cloudwards.net/how-to-set-up-a-free-business-email/)
-- [goal-ideas](https://github.com/GuildCrafts/web-development-js/issues?q=is%3Aopen+is%3Aissue+label%3Agoal-idea)
-- [matrix](http://matrix.apps.learnersguild.org/
+
