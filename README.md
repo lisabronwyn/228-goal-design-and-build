@@ -48,10 +48,10 @@ http://www.name.com/blog/domains/2016/06/why-io-powerful-domain-choice/ ["5 reas
 
 #### Free
 
-- [] [register a free domain that's not a top level](http://www.freenom.com/en/index.html?lang=en)
-[free web hosting #1](https://www.freehosting.com/)
-[free web hosting #2](https://www.000webhost.com/)
-[setting up business email for free](https://www.cloudwards.net/how-to-set-up-a-free-business-email/)
+- [register a free domain that's not a top level](http://www.freenom.com/en/index.html?lang=en)
+- [free web hosting #1](https://www.freehosting.com/)
+- [free web hosting #2](https://www.000webhost.com/)
+- [setting up business email for free](https://www.cloudwards.net/how-to-set-up-a-free-business-email/)
 
 
 This is a great goal to choose if you've never registered your own domain, haven't set up mail servers through a hosting company, etc.
