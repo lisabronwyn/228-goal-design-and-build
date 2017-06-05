@@ -26,7 +26,7 @@ This goal will likely be within your ZPD if you...
 
 ## Description
 
-Are you in need of your own website? Are you getting serious about job hunting and working on your brand?
+You need a website. Are you in need of your own website? Are you getting serious about job hunting and working on your brand?
 
 There are two versions of this goal: paid and free
 
@@ -104,7 +104,7 @@ Example project for goal shows "proof of concept".
 [personal-branding]: https://skillcrush.com/2015/02/20/10-ways-build-personal-brand/
 [choose-the-right-domain]: https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/
 [more-about-hosting]: https://webdesign.tutsplus.com/tutorials/the-seriously-comprehensive-guide-to-choosing-a-web-host--cms-25430
-[goal-library-site]: {{ site.url }}
+[setting up gmail and registering a domain]: http://www.coffeecup.com/help/articles/set-up-gmail-for-your-own-domain/
 [goal-quality-checklist]: https://github.com/GuildCrafts/web-development-js/blob/master/CONTRIBUTING.md#goal-quality-checklist
 [goal-ideas]: https://github.com/GuildCrafts/web-development-js/issues?q=is%3Aopen+is%3Aissue+label%3Agoal-idea
 [matrix]: http://matrix.apps.learnersguild.org/
