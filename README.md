@@ -26,7 +26,7 @@ This goal will likely be within your ZPD if you...
 
 ## Description
 
-You need a website. Try Wix! Just kidding. But seriously, are you in need of your own website? Are you getting serious about job hunting and working on your brand?
+You need a website. Try Wix! Just kidding. But seriously, are you in need of your own website? Are you getting serious about job hunting and working on your brand? What is DNS, FTP, SSH, SMTP, cPanel, etc? 
 
 There are two versions of this goal: free and paid
 
@@ -49,11 +49,7 @@ In this goal, you will:
 
 #### Free
 
-[free domains](http://www.freenom.com/en/index.html?lang=en)
-
-
-
-
+[register a free domain that's not a top level](http://www.freenom.com/en/index.html?lang=en)
 
 
 This is a great goal to choose if you've never registered your own domain, haven't set up mail servers through a hosting company, etc.
