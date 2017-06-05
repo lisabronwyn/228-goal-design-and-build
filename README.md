@@ -100,7 +100,7 @@ Example project for goal shows "proof of concept".
   - [Set (the Game) with React (#120)][set-game]
   - [Postalicious - Demystifying HTTP (#194)][postalicious]
 
-- [choosing domains]: https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/
+- [choosing domains]:(https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/)
 - [personal-branding]: https://skillcrush.com/2015/02/20/10-ways-build-personal-brand/
 - [choose-the-right-domain]: https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/
 - [more-about-hosting]: https://webdesign.tutsplus.com/tutorials/the-seriously-comprehensive-guide-to-choosing-a-web-host--cms-25430
