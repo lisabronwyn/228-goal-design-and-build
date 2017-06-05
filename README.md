@@ -30,7 +30,7 @@ You need a website. Try Wix! Just kidding. But seriously, are you in need of you
 
 There are two versions of this goal: free and paid
 
-### One note about free vs. paid domains and hosting. I've done both and chose my hosting company because I had ethical issues with GoDaddy (Google for more info) and bad experiences with 1and1.com (it was a nightmare that involved "hidden fees" to transfer my domain to another registrar).
+#### One note about free vs. paid domains and hosting. I've done both and chose my hosting company because I had ethical issues with GoDaddy (Google for more info) and bad experiences with 1and1.com (it was a nightmare that involved "hidden fees" to transfer my domain to another registrar).
 
 In this goal, you will:
 
