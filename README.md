@@ -26,9 +26,11 @@ This goal will likely be within your ZPD if you...
 
 ## Description
 
-You need a website. Are you in need of your own website? Are you getting serious about job hunting and working on your brand?
+You need a website. Try Wix! Just kidding. But seriously, are you in need of your own website? Are you getting serious about job hunting and working on your brand?
 
-There are two versions of this goal: paid and free
+There are two versions of this goal: free and paid
+
+###One note about free vs. paid domains and hosting. I've done both and chose my hosting company because I had ethical issues with GoDaddy (Google for more info) and bad experiences with 1and1.com (it was a nightmare that involved "hidden fees" to transfer my domain to another registrar).
 
 In this goal, you will:
 
@@ -38,7 +40,7 @@ In this goal, you will:
 - Set up a personal mail server for your domain
 - Deploy your site to Heroku ?
 
-###Paid 
+####Paid 
 
 [namecheap]: https://www.namecheap.com
 [google-domains]: https://aws.amazon.com/getting-started/tutorials/get-a-domain/
@@ -46,6 +48,8 @@ In this goal, you will:
 
 
 ###Free
+
+[free domains](http://www.freenom.com/en/index.html?lang=en)
 
 
 
