@@ -3,7 +3,8 @@ authors:
 - "lisabronwyn"
 team_size: 1
 goal_id: 666
-title: Goal Design & Build
+title: Set Up Your Domain, Mail Server, and More
+
 created_at: '2017-04-03T10:13:56Z'
 labels:
 - prototype
@@ -19,13 +20,12 @@ redirect_from: "/goals/666"
 This goal will likely be within your ZPD if you...
 
 - Have worked on 15+ goals at Learners Guild
-- Need to register a domain, set up hosting and a mail server, etc.
-- Have done the above already, but are rusty 
-- Have already done so, but need to move hosting companies.
+- Are highly motivated to set up/fine tune your web presence
+- Have some idea about 
 
 ## Description
 
-Do you have an idea for a project that isn't yet covered in the goal library? Why not build the goal yourself?
+Are you in need of your own website? Are you getting serious about job hunting and working on your brand?
 
 In this goal, you will:
 
@@ -33,11 +33,11 @@ In this goal, you will:
 - Do research into the pros and cons of using particular hosting companies
 - Register your chosen domain with your carefully chosen hosting company
 - Set up a personal mail server for your domain
-- Deploy your site to Heroku
+- Deploy your site to Heroku ?
 
-This is a great goal to choose if you've never registered your own domain or haven't set up mail servers through a hosting company, etc.
+This is a great goal to choose if you've never registered your own domain, haven't set up mail servers through a hosting company, etc.
 
-Note that this goal is a _solo_ goal (team size 1), so you will be working alone. You will need to more self-direction to get this goal to completion as there is slightly less structure than other goals. That being said, please do use the resources available to you to get frequent feedback and guidance: other learners, coaches, and the goal librarian.
+Note that this goal is a _solo_ goal (team size 1), so you will be working alone. You will need more self-direction to get this goal to completion as there is slightly less structure than other goals. That being said, please do use the resources available to you to get frequent feedback and guidance: other learners, coaches, and the goal librarian.
 
 Review the specifications for more details on what is required.
 
