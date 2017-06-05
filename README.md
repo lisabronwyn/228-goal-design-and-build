@@ -83,7 +83,7 @@ Example project for goal shows "proof of concept".
   - [Set (the Game) with React (#120)][set-game]
   - [Postalicious - Demystifying HTTP (#194)][postalicious]
 
-[domains]: https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/
+[choosing domains]: https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/
 [personal-branding]: https://skillcrush.com/2015/02/20/10-ways-build-personal-brand/
 [goal-lib-project]: https://github.com/GuildCrafts/web-development-js/projects/1
 [goal-library]: https://github.com/GuildCrafts/web-development-js
