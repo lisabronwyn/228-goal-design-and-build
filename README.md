@@ -21,7 +21,7 @@ This goal will likely be within your ZPD if you...
 
 - Have worked on 15+ goals at Learners Guild
 - Are highly motivated to set up/fine tune your web presence
-- Have some idea about 
+
 
 ## Description
 
