@@ -42,9 +42,9 @@ In this goal, you will:
 
 #### Paid 
 
-[namecheap][(https://www.namecheap.com)]
-[google-domains][(https://aws.amazon.com/getting-started/tutorials/get-a-domain/)]
-[5 reasons why IO is a good choice][(http://www.name.com/blog/domains/2016/06/why-io-powerful-domain-choice/)]
+(https://www.namecheap.com "Name Cheap")
+(https://domains.google "Google Domains")
+(http://www.name.com/blog/domains/2016/06/why-io-powerful-domain-choice/ "5 reasons why IO is a good choice")
 
 #### Free
 
