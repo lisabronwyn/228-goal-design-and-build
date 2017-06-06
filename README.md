@@ -1,103 +1,148 @@
----
-authors:
-- "lisabronwyn"
-team_size: 1
-goal_id: 666
-title: Set Up Your Domain, Mail Server, and More
+# Domains, Registrars, Hosting Companies, Mail Servers, and more!
 
-created_at: '2017-04-03T10:13:56Z'
-labels:
-- prototype
-published: false;
-level: '3'
-redirect_from: "/goals/666"
----
+A day-by-day structured deep dive into what it takes to register a domain, acquire hosting for your site/brand, implement a blog, and more. Learn all about FTP, SMTP, etc.
 
-# Goal Design & Build
+You'll learn about the pros and cons of using paid or free services and implement one (or both!)
 
-## Challenge Rubric
+By read articles, watching videos, completing lessons and exercises, you'll implement a final project at the end of the week.
 
-This goal will likely be within your ZPD if you...
+## Day 1: Your Domain
 
-- Have worked on 15+ goals at Learners Guild
-- Are highly motivated to set up/fine tune your web presence
-- Are curious about Domain Registrars, DNS, FTP, etc.
+Your objective for the day: carefully choose a domain (paid) or subdomain (free).
+
+### Domains and Your Personal Brand
+
+- [ ] Read articles about selecting a domain (paid) or subdomain (free) and building your personal brand:
+- https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/
+- https://webdesign.tutsplus.com/tutorials/the-seriously-comprehensive-guide-to-choosing-a-web-host--cms-25430
 
 
-## Description
+### Domain Registrars and Hosting Companies
 
-You need a website. Try Wix! Just kidding. But seriously, are you in need of your own website? Are you getting serious about job hunting and working on your brand? What is DNS, FTP, SSH, SMTP, cPanel, etc?
+A domain registrar will not necessarily be your hosting company, if you're going the paid route.
 
-There are two versions of this goal: free and paid
+One important consideration for paying to register your domain is whether you will opt for Private Domain Registration.
 
-#### One note about free vs. paid domains and hosting. I've done both and chose my hosting company because I had ethical issues with GoDaddy (Google for more info) and bad experiences with 1and1.com (it was a nightmare that involved "hidden fees" to transfer my domain to another registrar).
+I've personally used the private option due to privacy and spamming concerns. This costs anywhere from an additional $9.99-$15.99 per year, and can be bundled with your domain name and/or hosting package for one stop shopping.
 
-In this goal, you will:
+- http://www.register.com/masking/index.rcmx
+- https://www.networksolutions.com/domain-name-registration/private.jsp
 
-- Carefully think of a relevant domain name for your professional career / "brand"
-- Do research into the pros and cons of using particular hosting companies
-- Register your domain with your carefully chosen hosting company (free or paid)
-- Set up a personal mail server for your domain
-- Deploy your site to Heroku ?
+Usually bundling all three will yield you a better price, but not always. Google Domains provides this service for free (currently with each domain registration)
 
-#### Paid
-
-https://www.namecheap.com ["Name Cheap"]
-https://domains.google ["Google Domains"]
-http://www.name.com/blog/domains/2016/06/why-io-powerful-domain-choice/ ["5 reasons why IO is a good choice"]
-
-#### Free
-
-- [register a free domain that's not a top level](http://www.freenom.com/en/index.html?lang=en)
-- [free web hosting #1](https://www.freehosting.com/)
-- [free web hosting #2](https://www.000webhost.com/)
-- [setting up business email for free](https://www.cloudwards.net/how-to-set-up-a-free-business-email/)
-- [use WordPress as a personal website](http://www.wordpress.org)
+- https://domains.google.com/registrar
 
 
-This is a great goal to choose if you've never registered your own domain, haven't set up mail servers through a hosting company, etc.
+ - [ ] Complete the [Closures lesson][udacity]
+ -
+- https://whois.icann.org/en/domain-name-registration-process
 
-Note that this goal is a _solo_ goal (team size 1), so you will be working alone. You will need more self-direction to get this goal to completion as there is slightly less structure than other goals. That being said, please do use the resources available to you to get frequent feedback and guidance: other learners, coaches, and the goal librarian.
+#### Content Management Systems (CMS)
 
-Review the specifications for more details on what is required.
+There are three main CMS' in the wild, although WordPress is the most common. It powers up to 27% of all websites in existence!
 
-## Context
+Open source, and with a robust community, I've been using it since 2008 and highly recommend it, especially for blogging.
 
-Registering your own domain and working on your personal brand for your new career as a software/web developer isn't something to be taken lightly. A lot of thought should go into your professional presentation and reputation online.
+- https://wordpress.com/start/free/design-type-with-store (free subdomain)
+- http://www.wordpress.org (your own hosting)
+- https://www.templatemonster.com/blog/why-use-wordpress-for-my-website/
 
-It is also a rewarding experience that will help you achieve many "a-ha" moments. Nothing says "I'm on the ball" more than having your own domain and especially your own me@me.com or info@richsoftwaredeveloper.com email address to give out and place on all of your promotional materials like your resume and/or business cards, etc.
-
-As you go through this goal, you'll have to consider questions such as:
-
-- What am I trying to achieve with my online presence?
-- If my personal name is unavailable as a top-level domain (.com), what is a good alternative?
-- Will I need a blog and am I interested in potentially using a CMS (content management system) like WordPress, etc.?
-
-## Specifications
-
-#### Goal
-- [ ] Goal idea has been added as an issue to the [goal library project][goal-lib-project] (unless you are using an existing [goal idea][goal-ideas])
-- [ ] New goal is submitted to [goal library][goal-library] thorough a pull request with new file in `_goals/` directory
-- [ ] Description in pull request includes a brief overview of why this goal is useful
-- [ ] Description in pull request includes a link to example project for goal
-- [ ] Description in pull request includes a list of skill areas from the [matrix][matrix] that this goal address
-- [ ] Goal has a good title
-- [ ] Goal has all front matter / metadata (e.g. `team_size`, `level`, `authors`)
-- [ ] Goal includes complete challenge rating, description, context, and specifications
-- [ ] Goal includes some useful resources
-- [ ] Goal is relevant (focused closely on work similar to that of a professional JS web developer)
-- [ ] Goal has been reviewed by the goal librarian
-- [ ] Goal is approved for publishing and merged into library
-
-#### Example Project
-Example project for goal shows "proof of concept".
-- [ ] 80%+ of core specifications have been completed
-- [ ] Project is functional (the code doesn't break with basic usage)
-
-## Resources
+If you have your own hosting, WordPress can be installed easily with one-click in your hosting panel.
 
 
-- [personal branding](https://skillcrush.com/2015/02/20/10-ways-build-personal-brand/)
 
-- [more about hosting](https://webdesign.tutsplus.com/tutorials/the-seriously-comprehensive-guide-to-choosing-a-web-host--cms-25430)
-- [setting up gmail and registering a domain](http://www.coffeecup.com/help/articles/set-up-gmail-for-your-own-domain/)
+## Day 2: Objects and "this"
+
+### Objects
+
+- [ ] Watch [Video introduction to Object Oriented Javascript](https://www.youtube.com/watch?v=O8wwnhdkPE4) (1 Hour)
+- [ ] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
+- [ ] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
+- [ ] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course] (https://teamtreehouse.com/library/objectoriented-javascript)
+- [ ] Skim this [cheat sheet][cheat]
+
+### This
+
+- [ ] Watch these videos:
+  - https://shereef.wistia.com/medias/wfybhl2nmr
+  - https://shereef.wistia.com/medias/kqbedkmm13
+- [ ] Read [Undrestanding Javascrpt's This with Clarity and Mastery](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+- [ ] Read [What is this in Javascript](http://www.code-sample.com/2015/06/what-is-this-in-javascript.html)
+- [ ] Complete the [Keyword "this" lesson][udacity]
+
+### Stretch
+
+- [ ] Do exercises for Chapter 4 of [Object Oriented Javascript][book-oojs] (and maybe read it)
+- [ ] Study these [top 50 OOPs interview questions](http://career.guru99.com/top-50-oops-interview-questions/)
+
+## Day 3: Prototype and Inheritance
+
+- [ ] Watch these videos on Prototypes:
+  - https://shereef.wistia.com/medias/a5m8nwq4su
+  - https://shereef.wistia.com/medias/ednchu35gz
+  - https://shereef.wistia.com/medias/yejzrin760
+  - https://shereef.wistia.com/medias/372u07ybvu
+  - https://shereef.wistia.com/medias/xxj6323pk9
+- [ ] Read [Prototype in Plain English](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+- [ ] Read [OOP in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+- [ ] Complete the [Prototype Chains][udacity] Lesson on Udacity
+- [ ] Complete the [Prototypal Classes][udacity] Lesson on Udacity
+
+### Stretch
+
+- [ ] Read pages 184 to 201 in [Professional JS for Web Developers][projs]
+- [ ] Read [Understanding Javascript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
+- [ ] Read sections 7 in [JS Ninja](ninja)
+- [ ] Do exercises for Chapter 5 of [Object Oriented Javascript][book-oojs] (and maybe read it)
+- [ ] Do exercises for Chapter 6 of [Object Oriented Javascript][book-oojs] (and maybe read it)
+
+## Day 4: Deeper Dive and Final Project
+
+- [ ] Complete the [Object Decorator Pattern][udacity] Lesson on Udacity
+- [ ] Complete the [Functional Classes][udacity] Lesson on Udacity
+- [ ] Complete the [Pseudoclassical Patterns][udacity] Lesson on Udacity
+- [ ] Complete the [Superclass and Subclass Patterns][udacity] Lesson on Udacity
+- [ ] Complete the [Pseudoclassical Sublasses][udacity] Lesson on Udacity
+- [ ] Start (and maybe finish) the [Final Project][udacity] Lesson on Udacity
+
+## Day 5: Final Project and check your understanding
+
+- [ ] Complete the [Final Project][udacity] Lesson on Udacity
+
+Do you know/understand:
+
+- Everything [in this article](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+- Everything in this [cheat sheet][cheat]
+- The difference between Classic Inheritance and Prototypical Inheritance
+- The difference between private variable, public variable and static variable? How we achieve this in JS?
+- How to add/remove properties to object in run time?
+- How to achieve inheritance ?
+- How to extend built-in objects?
+- What is Object in JavaScript?
+- What is the Prototype object in JavaScript and how it is used?
+- What is "this"? What is its value?
+- Explain why "self" is needed instead of "this".
+- What is a Closure and why are they so useful to us?
+- Explain how to write class methods vs. instance methods.
+- Can you explain the difference between == and ===?
+
+
+## Stretch Goals
+
+- [ ] Complete the [learn-js OO tutorial](https://www.learn-js.org/en/Object_Oriented_JavaScript)
+- [ ] Complete the [learn-js function context tutorial](https://www.learn-js.org/en/Function_Context)
+- [ ] Complete the [learn-js inheritance tutorial](https://www.learn-js.org/en/Inheritance)
+- [ ] Read [Object Oriented Javascript for Beginners](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+- [ ] Read [Chapter 8 of Eloquent Javascript](http://eloquentjavascript.net/1st_edition/chapter8.html)
+- [ ] Read [The Basics of Object Oriented Javascript](https://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
+- [ ] Study this [OOP interview questions](http://www.code-sample.com/2015/04/javascript-interview-questions-answers.html)
+- [ ] Go over these [object oriented javascript interview questions](https://blog.kevinchisholm.com/object-oriented-javascript/javascript-interview-questions-object-oriented-javascript/)
+- [ ] Complete these [3 practice exercises](https://www.ibm.com/developerworks/library/wa-objects-pr/)
+- [ ] Complete section 2 of [these exercises](http://ynonperek.com/javascript-exer.html)
+
+
+[udacity]: https://www.udacity.com/course/object-oriented-javascript--ud015
+[projs]: ftp://ftp.micronet-rostov.ru/linux-support/books/programming/JavaScript/Wrox.Professional.JavaScript.for.Web.Developers.3rd.Edition.Jan.2012.pdf
+[ninja]: https://github.com/GuildCrafts/core-object-oriented-javascript/raw/master/Books/Secrets%20of%20the%20JavaScript%20Ninja%20-%20John%20Resig%20and%20Bear%20Bibeault%20-%20December%202012.pdf
+[cheat]: https://github.com/GuildCrafts/core-object-oriented-javascript/raw/master/Books/Objects-Cheat-Sheet.pdf
+[book-oojs]: ./Books/Object-Oriented_JavaScript-Stefanov.pdf
