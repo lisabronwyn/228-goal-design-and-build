@@ -1,10 +1,12 @@
 # Domains, Registrars, Hosting Companies, Mail Servers, and more!
 
-A day-by-day structured deep dive into what it takes to register a domain, acquire hosting for your site/brand, implement a blog, and more. Learn all about FTP, SMTP, etc.
+A day-by-day structured deep dive into what it takes to register a domain, acquire hosting for your site/brand, implement a blog, and more.
+
+Learn all about FTP, SMTP, etc.
 
 You'll learn about the pros and cons of using paid or free services and implement one (or both!)
 
-By read articles, watching videos, completing lessons and exercises, you'll implement a final project at the end of the week.
+By reading articles, watching videos, completing lessons and exercises, you'll implement a final project at the end of the week.
 
 ## Day 1: Your Domain
 
@@ -12,23 +14,28 @@ Your objective for the day: carefully choose a domain (paid) or subdomain (free)
 
 ### Domains and Your Personal Brand
 
-- [ ] Read articles about selecting a domain (paid) or subdomain (free) and building your personal brand:
+Read articles about selecting a domain (paid) or subdomain (free) and building your personal brand:
+
 - https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/
 - https://webdesign.tutsplus.com/tutorials/the-seriously-comprehensive-guide-to-choosing-a-web-host--cms-25430
 
+- [ ] Watch these videos:
+- https://www.youtube.com/watch?v=iNkxfbJoe2Y
 
 ### Domain Registrars and Hosting Companies
 
 A domain registrar will not necessarily be your hosting company, if you're going the paid route.
 
-One important consideration for paying to register your domain is whether you will opt for Private Domain Registration.
+One important consideration when you register your domain is whether you will also opt for private domain registration.
 
 I've personally used the private option due to privacy and spamming concerns. This costs anywhere from an additional $9.99-$15.99 per year, and can be bundled with your domain name and/or hosting package for one stop shopping.
 
 - http://www.register.com/masking/index.rcmx
 - https://www.networksolutions.com/domain-name-registration/private.jsp
 
-Usually bundling all three will yield you a better price, but not always. Google Domains provides this service for free (currently with each domain registration)
+Usually bundling all three will yield you a better price, but not always.
+
+Google Domains provides the private service for free (currently with each domain registration)
 
 - https://domains.google.com/registrar
 
@@ -36,6 +43,25 @@ Usually bundling all three will yield you a better price, but not always. Google
  - [ ] Complete the [Closures lesson][udacity]
  -
 - https://whois.icann.org/en/domain-name-registration-process
+
+#### FREE vs. PAID WEB HOSTING
+
+There are many limitations that come with free web hosting. It's worth it to try doing this at least once, so that you can experience the limitations for yourself and also debug everything during the process.
+
+PROS: free, lots of debugging, not much else.
+
+CONS: advertising(!), subdomain doesn't allow for yourownpersonalsite.com and you'll end up with something like your-personal-site.freewebhosting101.com, very limited bandwidth, doesn't migrate very well.
+
+FREE WEB HOSTING
+
+- https://www.wix.com/
+- https://www.000webhost.com/
+- https://www.5gbfree.com/
+- https://www.weebly.com/features/free-web-hosting
+- https://www.one.com/en/ (this one provides 25 gigs but is only free for one year)
+
+I've personally used 000webhost and 10xhosting to set up dummy sites for clients.
+
 
 #### Content Management Systems (CMS)
 
@@ -49,16 +75,18 @@ Open source, and with a robust community, I've been using it since 2008 and high
 
 If you have your own hosting, WordPress can be installed easily with one-click in your hosting panel.
 
+A NOTE ABOUT BLOGGING: since I started using WordPress, many other viable sources have appeared on the scene, most notably, Medium. Register your name or brand on Medium to claim your name/brand.
+
+Medium is also useful to driving traffic to your own site(s). Don't forget that you can also cross-post blog entries to both of them.
 
 
-## Day 2: Objects and "this"
+## Day 2: DNS (domain name service)
 
-### Objects
+### Tutorials
 
-- [ ] Watch [Video introduction to Object Oriented Javascript](https://www.youtube.com/watch?v=O8wwnhdkPE4) (1 Hour)
-- [ ] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
-- [ ] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
-- [ ] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course] (https://teamtreehouse.com/library/objectoriented-javascript)
+- [ ] Read [DNS Tutorials](http://help.dnsmadeeasy.com/view-tutorials/)
+- [ ] Read [How To Point a Domain Name to Your Site](http://sitebeginner.com/domains/domaintosite/)
+- [ ] Web Hosting Geeks' Guide DNS (https://webhostinggeeks.com/guides/dns/)
 - [ ] Skim this [cheat sheet][cheat]
 
 ### This
@@ -75,7 +103,7 @@ If you have your own hosting, WordPress can be installed easily with one-click i
 - [ ] Do exercises for Chapter 4 of [Object Oriented Javascript][book-oojs] (and maybe read it)
 - [ ] Study these [top 50 OOPs interview questions](http://career.guru99.com/top-50-oops-interview-questions/)
 
-## Day 3: Prototype and Inheritance
+## Day 3: SEO (Search Engine Optimization)
 
 - [ ] Watch these videos on Prototypes:
   - https://shereef.wistia.com/medias/a5m8nwq4su
@@ -83,10 +111,12 @@ If you have your own hosting, WordPress can be installed easily with one-click i
   - https://shereef.wistia.com/medias/yejzrin760
   - https://shereef.wistia.com/medias/372u07ybvu
   - https://shereef.wistia.com/medias/xxj6323pk9
-- [ ] Read [Prototype in Plain English](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
-- [ ] Read [OOP in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+- [ ] Read [Beginners Guild to SEO](https://moz.com/beginners-guide-to-seo)
+- [ ] Read [What is SEO?](http://neilpatel.com/what-is-seo/)
 - [ ] Complete the [Prototype Chains][udacity] Lesson on Udacity
 - [ ] Complete the [Prototypal Classes][udacity] Lesson on Udacity
+
+Document which techniques you will use for your own website to rank higher in search engine results.
 
 ### Stretch
 
