@@ -14,10 +14,11 @@ Your objective for the day: carefully choose a domain (paid) or subdomain (free)
 
 ### Domains and Your Personal Brand
 
-Read articles about selecting a domain (paid) or subdomain (free) and building your personal brand:
+- [ ] Read articles about selecting a domain (paid) or subdomain (free) and building your personal brand:
 
-- https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/
-- https://webdesign.tutsplus.com/tutorials/the-seriously-comprehensive-guide-to-choosing-a-web-host--cms-25430
+- [ ] https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/
+
+- [ ]  https://webdesign.tutsplus.com/tutorials/the-seriously-comprehensive-guide-to-choosing-a-web-host--cms-25430
 
 - [ ] Watch these videos:
 - https://www.youtube.com/watch?v=iNkxfbJoe2Y
