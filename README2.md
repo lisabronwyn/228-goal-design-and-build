@@ -1,16 +1,15 @@
 ---
 authors:
-- "lisabronwyn"
+- "tannerwelsh"
 team_size: 1
-goal_id: 666
-title: Set Up Your Domain, Mail Server, and More
-
+goal_id: 228
+title: Goal Design & Build
 created_at: '2017-04-03T10:13:56Z'
 labels:
 - prototype
-published: false;
+published: true
 level: '3'
-redirect_from: "/goals/666"
+redirect_from: "/goals/228"
 ---
 
 # Goal Design & Build
@@ -20,64 +19,47 @@ redirect_from: "/goals/666"
 This goal will likely be within your ZPD if you...
 
 - Have worked on 15+ goals at Learners Guild
-- Are highly motivated to set up/fine tune your web presence
-- Are curious about Domain Registrars, DNS, FTP, etc.
-
+- Have an idea for a project
+- Are interested in designing a project from scratch
+- Are interested in contributing to the goal library
 
 ## Description
 
-You need a website. Try Wix! Just kidding. But seriously, are you in need of your own website? Are you getting serious about job hunting and working on your brand? What is DNS, FTP, SSH, SMTP, cPanel, etc?
-
-There are two versions of this goal: free and paid
-
-#### One note about free vs. paid domains and hosting. I've done both and chose my hosting company because I had ethical issues with GoDaddy (Google for more info) and bad experiences with 1and1.com (it was a nightmare that involved "hidden fees" to transfer my domain to another registrar).
+Do you have an idea for a project that isn't yet covered in the goal library? Why not build the goal yourself?
 
 In this goal, you will:
 
-- Carefully think of a relevant domain name for your professional career / "brand"
-- Do research into the pros and cons of using particular hosting companies
-- Register your domain with your carefully chosen hosting company (free or paid)
-- Set up a personal mail server for your domain
-- Deploy your site to Heroku ?
+- Design a goal from your own idea (or pick one of the open [goal ideas][goal-ideas])
+- Write your goal through multiple drafts and edits
+- Build the project for your goal to test it out and make a "proof of concept"
+- Publish your goal to the library when/if it is ready
 
-#### Paid
+This is a great goal to choose if you have noticed a gap in the [goal library][goal-library-site] of skills that aren't yet properly covered and you have a great project idea to help build those skills.
 
-https://www.namecheap.com ["Name Cheap"]
-https://domains.google ["Google Domains"]
-http://www.name.com/blog/domains/2016/06/why-io-powerful-domain-choice/ ["5 reasons why IO is a good choice"]
+Because you also have to build a "proof of concept" project for your goal, you will get to work on the goal yourself. To make sure that your goal is of the highest quality, it is important to test it out yourself first. Of course, this should be fun because you get to pick just what your goal should do 😄.
 
-#### Free
-
-- [register a free domain that's not a top level](http://www.freenom.com/en/index.html?lang=en)
-- [free web hosting #1](https://www.freehosting.com/)
-- [free web hosting #2](https://www.000webhost.com/)
-- [setting up business email for free](https://www.cloudwards.net/how-to-set-up-a-free-business-email/)
-- [use WordPress as a personal website](http://www.wordpress.org)
-
-
-This is a great goal to choose if you've never registered your own domain, haven't set up mail servers through a hosting company, etc.
-
-Note that this goal is a _solo_ goal (team size 1), so you will be working alone. You will need more self-direction to get this goal to completion as there is slightly less structure than other goals. That being said, please do use the resources available to you to get frequent feedback and guidance: other learners, coaches, and the goal librarian.
+Note that this goal is a _solo_ goal (team size 1), so you will be working alone. You will need to more self-direction to get this goal to completion as there is less structure than other goals. That being said, please do use the resources available to you to get frequent feedback and guidance: other learners, coaches, and the goal librarian.
 
 Review the specifications for more details on what is required.
 
 ## Context
 
-Registering your own domain and working on your personal brand for your new career as a software/web developer isn't something to be taken lightly. A lot of thought should go into your professional presentation and reputation online.
+Designing and building a goal is not easy and it requires a different set of skills and activities than other goals. Not only do you have to come up with the project idea, but you also have to be able to translate that idea into a clean, clear outline for other learners to follow.
 
-It is also a rewarding experience that will help you achieve many "a-ha" moments. Nothing says "I'm on the ball" more than having your own domain and especially your own me@me.com or info@richsoftwaredeveloper.com email address to give out and place on all of your promotional materials like your resume and/or business cards, etc.
+It is also a rewarding experience and a great way to contribute to the learning community. The quality of your design will directly impact how much other learners will benefit from the goal.
 
-As you go through this goal, you'll have to consider questions such as:
+As you design your goal, you'll have to consider questions such as:
 
-- What am I trying to achieve with my online presence?
-- If my personal name is unavailable as a top-level domain (.com), what is a good alternative?
-- Will I need a blog and am I interested in potentially using a CMS (content management system) like WordPress, etc.?
+- Why is this goal important? How will other learners benefit from doing this goal?
+- What skills from the [matrix][matrix] will this goal build?
+- How is this goal relevant for aspiring full-stack JS web developers?
+- What does completeness look like? How will learners know what success looks like?
 
 ## Specifications
 
 #### Goal
 - [ ] Goal idea has been added as an issue to the [goal library project][goal-lib-project] (unless you are using an existing [goal idea][goal-ideas])
-- [ ] New goal is submitted to [goal library][goal-library] thorough a pull request with new file in `_goals/` directory
+- [ ] New goal is submitted to [goal library][goal-library] thorugh a pull request with new file in `_goals/` directory
 - [ ] Description in pull request includes a brief overview of why this goal is useful
 - [ ] Description in pull request includes a link to example project for goal
 - [ ] Description in pull request includes a list of skill areas from the [matrix][matrix] that this goal address
@@ -96,8 +78,22 @@ Example project for goal shows "proof of concept".
 
 ## Resources
 
+- [CONTRIBUTING][contributing] file in goal library - includes lengthy section on "Authoring a Goal"
+- Wiki entry: [Anatomy of a Good Learning Goal][anatomy-good-goal]
+- Some good goals to use for inspiration:
+  - [Pizza Restaurant (#98)][pizza-restaurant]
+  - [Set (the Game) with React (#120)][set-game]
+  - [Postalicious - Demystifying HTTP (#194)][postalicious]
 
-- [personal branding](https://skillcrush.com/2015/02/20/10-ways-build-personal-brand/)
+[contributing]: https://github.com/GuildCrafts/web-development-js/blob/master/CONTRIBUTING.md
+[anatomy-good-goal]: https://github.com/GuildCrafts/web-development-js/wiki/Anatomy-of-a-Good-Learning-Goal
+[goal-lib-project]: https://github.com/GuildCrafts/web-development-js/projects/1
+[goal-library]: https://github.com/GuildCrafts/web-development-js
+[goal-library-site]: {{ site.url }}
+[goal-quality-checklist]: https://github.com/GuildCrafts/web-development-js/blob/master/CONTRIBUTING.md#goal-quality-checklist
+[goal-ideas]: https://github.com/GuildCrafts/web-development-js/issues?q=is%3Aopen+is%3Aissue+label%3Agoal-idea
+[matrix]: http://matrix.apps.learnersguild.org/
 
-- [more about hosting](https://webdesign.tutsplus.com/tutorials/the-seriously-comprehensive-guide-to-choosing-a-web-host--cms-25430)
-- [setting up gmail and registering a domain](http://www.coffeecup.com/help/articles/set-up-gmail-for-your-own-domain/)
+[pizza-restaurant]: {{ site.url }}{% link _goals/98-Pizza_Restaurant-RDB_Schema_with_CRUD_API.md %}
+[set-game]: {{ site.url }}{% link _goals/120-Set_the_Game_with_React.md %}
+[postalicious]: {{ site.url }}{% link _goals/194-Postalicious-Demystifying_HTTP.md %}

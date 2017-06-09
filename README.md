@@ -1,6 +1,6 @@
 # Domains, Registrars, Hosting Companies, Mail Servers, and more!
 
-A day-by-day structured deep dive into what it takes to register a domain, acquire hosting for your site/brand, implement a blog, and more.
+A deep dive into what it takes to register a domain, acquire hosting for your site/brand, implement a blog, and more.
 
 Learn all about FTP, SMTP, etc.
 
@@ -10,11 +10,11 @@ By reading articles, watching videos, completing lessons and exercises, you'll i
 
 ## Your Domain
 
-Your objective for the day: carefully choose a domain (paid) or subdomain (free).
+Your objective is to carefully choose a domain (paid) or subdomain (free).
 
 ### Domains and Your Personal Brand
 
-- Read articles about selecting a domain (paid) or subdomain (free) and building your personal brand:
+Read articles about selecting a domain (paid) or subdomain (free) and building your personal brand:
 
 - [ ] https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/
 
@@ -77,13 +77,13 @@ Open source, and with a robust community, I've been using it since 2008 and high
 
 If you have your own hosting, WordPress can be installed easily with one-click in your hosting panel.
 
-A NOTE ABOUT BLOGGING: since I started using WordPress, many other viable sources have appeared on the scene, most notably, Medium. Register your name or brand on Medium to claim your name/brand.
+A NOTE ABOUT BLOGGING: even though I've been using WordPress for a long time, I also maintain a blog on Medium. It's a wonderful platform to get your thoughts out there to an audience that's easier to acquire than DIY.
 
-Medium is also useful to driving traffic to your own site(s). Don't forget that you can also cross-post blog entries to both of them.
+Register your name or brand on Medium ASAP!
+
+Medium is also useful to driving traffic to your own site(s). Don't forget that you can also cross-post blog entries to both.
 
 ## DNS (domain name service)
-
-### Tutorials
 
 - [ ] Read [DNS Tutorials](http://help.dnsmadeeasy.com/view-tutorials/)
 - [ ] Read [How To Point a Domain Name to Your Site](http://sitebeginner.com/domains/domaintosite/)
@@ -100,7 +100,7 @@ Document which techniques you will use for your own website to rank higher in se
 
 ## FTP
 
-Use the following tutorials to learn all about FTP (file transfer protocol)
+Learn all about FTP (file transfer protocol)
 
 - [ ] Read [What is FTP?](http://www.ftpx.com/ftpintro.aspx)
 - [ ] Read [What is FTP, and how do I use it to transfer files?](https://kb.iu.edu/d/aerg)
@@ -108,28 +108,21 @@ Use the following tutorials to learn all about FTP (file transfer protocol)
 - [ ] Read [FTP Clients for Mac Users](http://www.callingallgeeks.org/7-ftp-clients-for-mac-users/)
 - [ ] Read [FileZilla](https://www.reddit.com/r/seedboxes/comments/2v3ucp/is_filezilla_the_best_ftp_for_osx/)
 
-## Notes and Understanding
+## SMTP and SSH
 
-Do you know/understand:
+- [ ] Read [Some Facts About SMTP - Simple Mail Transfer Protocol
+Search](https://www.lifewire.com/definition-of-smtp-817975)
+- [ ] Read [Connecting Via SSH to Your Server] (https://mediatemple.net/community/products/dv/204403684/connecting-via-ssh-to-your-server)
+- [ ] Read [SSH Protocol](https://www.ssh.com/ssh/protocol/)
 
-- What types of domains are there?
-- What is DNS and why is it important?
-- How to set up an FTP client?
-- What is SEO and why is it important?
--
-
-
-## Stretch Goals
+## Misc. Stretch Goals
 
 - [ ] Complete the [How to Learn WordPress in a Week or Less Tutorial](http://www.wpbeginner.com/beginners-guide/how-to-learn-wordpress-for-free-in-a-week-or-less/)
 - [ ] Complete the [Build a Website From Scratch Tutorial on Codecademy](https://www.codecademy.com/courses/websites-r-fun/0/1)
 - [ ] Read the [Brief Guide to Google Sites](https://www.lifewire.com/brief-guide-google-web-hosting-3473732)
 - [ ] Set Up Google Analytics for Your Site [Google Analytics](https://support.google.com/analytics/?hl=en#topic=3544906)
-- [ ] Watch All Four Tutorials For [Build A Modern Website From Scratch]
+- [ ] Tutorials [Watch All Four Tutorials [Build A Modern Website From Scratch]
 -(https://www.youtube.com/watch?v=4ROx50DZG5I)
 -(https://www.youtube.com/watch?v=5WdKz0CVmyM)
 -(https://www.youtube.com/watch?v=L-sVnM9FAcY)
 -(https://www.youtube.com/watch?v=efCZ_ZsGN_E)
-
-
-## Resources
