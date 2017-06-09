@@ -22,9 +22,8 @@ Read articles about selecting a domain (paid) or subdomain (free) and building y
 - [ ] https://www.themuse.com/advice/the-absolute-best-way-to-figure-out-your-personal-brand
 - [ ] http://www.pwc.com/us/en/careers/campus/assets/img/programs/personal-brand-workbook.pdf
 
-- [ ] Watch these videos:
+Watch this video:
 - https://www.youtube.com/watch?v=iNkxfbJoe2Y
--
 
 ### Domain Registrars and Hosting Companies
 
@@ -93,8 +92,6 @@ Medium is also useful to driving traffic to your own site(s). Don't forget that 
 
 - [ ] Read [Beginners Guild to SEO](https://moz.com/beginners-guide-to-seo)
 - [ ] Read [What is SEO?](http://neilpatel.com/what-is-seo/)
-- [ ] Complete the [Prototype Chains][udacity] Lesson on Udacity
-- [ ] Complete the [Prototypal Classes][udacity] Lesson on Udacity
 
 Document which techniques you will use for your own website to rank higher in search engine results.
 
@@ -114,6 +111,10 @@ Learn all about FTP (file transfer protocol)
 Search](https://www.lifewire.com/definition-of-smtp-817975)
 - [ ] Read [Connecting Via SSH to Your Server] (https://mediatemple.net/community/products/dv/204403684/connecting-via-ssh-to-your-server)
 - [ ] Read [SSH Protocol](https://www.ssh.com/ssh/protocol/)
+
+## Final Project
+
+Present your website at the end of the week.
 
 ## Misc. Stretch Goals
 
