@@ -58,16 +58,16 @@ As you design your goal, you'll have to consider questions such as:
 ## Specifications
 
 #### Goal
-- [ ] Goal idea has been added as an issue to the [goal library project][goal-lib-project] (unless you are using an existing [goal idea][goal-ideas])
-- [ ] New goal is submitted to [goal library][goal-library] thorugh a pull request with new file in `_goals/` directory
-- [ ] Description in pull request includes a brief overview of why this goal is useful
-- [ ] Description in pull request includes a link to example project for goal
-- [ ] Description in pull request includes a list of skill areas from the [matrix][matrix] that this goal address
-- [ ] Goal has a good title
-- [ ] Goal has all front matter / metadata (e.g. `team_size`, `level`, `authors`)
-- [ ] Goal includes complete challenge rating, description, context, and specifications
-- [ ] Goal includes some useful resources
-- [ ] Goal is relevant (focused closely on work similar to that of a professional JS web developer)
+- [x] Goal idea has been added as an issue to the [goal library project][goal-lib-project] (unless you are using an existing [goal idea][goal-ideas])
+- [x] New goal is submitted to [goal library][goal-library] thorugh a pull request with new file in `_goals/` directory
+- [x] Description in pull request includes a brief overview of why this goal is useful
+- [x] Description in pull request includes a link to example project for goal
+- [x] Description in pull request includes a list of skill areas from the [matrix] that this goal address
+- [x] Goal has a good title
+- [x] Goal has all front matter / metadata (e.g. `team_size`, `level`, `authors`)
+- [x] Goal includes complete challenge rating, description, context, and specifications
+- [x] Goal includes some useful resources
+- [x] Goal is relevant (focused closely on work similar to that of a professional JS web developer)
 - [ ] Goal has been reviewed by the goal librarian
 - [ ] Goal is approved for publishing and merged into library
 
