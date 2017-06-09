@@ -82,6 +82,17 @@ Register your name or brand on Medium ASAP!
 
 Medium is also useful to driving traffic to your own site(s). Don't forget that you can also cross-post blog entries to both.
 
+## Design
+
+This goal is less focused on design than the portfolio goal for example, but design is still very important.
+
+Whenever I'm in a pinch for ideas and am not using WordPress, I go to these sites for inspiration:
+
+- https://html5up.net/
+- http://www.free-css.com/free-css-templates
+- https://www.bypeople.com/one-page-html-templates/
+-
+
 ## DNS (domain name service)
 
 - [ ] Read [DNS Tutorials](http://help.dnsmadeeasy.com/view-tutorials/)
@@ -90,6 +101,7 @@ Medium is also useful to driving traffic to your own site(s). Don't forget that 
 
 ## SEO (Search Engine Optimization)
 
+- [ ] Read [URLs](https://moz.com/learn/seo/url)
 - [ ] Read [Beginners Guild to SEO](https://moz.com/beginners-guide-to-seo)
 - [ ] Read [What is SEO?](http://neilpatel.com/what-is-seo/)
 
@@ -114,7 +126,7 @@ Search](https://www.lifewire.com/definition-of-smtp-817975)
 
 ## Final Project
 
-Present your website at the end of the week.
+Present your website at the end of the week using what you learned from the tutorials. Be sure that your files are separated into relevant places like css, js, etc.
 
 ## Misc. Stretch Goals
 
