@@ -1,3 +1,17 @@
+---
+authors:
+- "lisabronwyn"
+team_size: 1
+goal_id: 666
+title: Journey to Setting Up an Amazing Website
+created_at: '2017-06-09T10:13:56Z'
+labels:
+- prototype
+published: false
+level: '2'
+redirect_from: "/goals/666"
+---
+
 # Domains, Registrars, Hosting Companies, Mail Servers, and more!
 
 A deep dive into what it takes to register a domain, acquire hosting for your site/brand, implement a blog, and more.
