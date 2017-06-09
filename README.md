@@ -14,15 +14,17 @@ Your objective for the day: carefully choose a domain (paid) or subdomain (free)
 
 ### Domains and Your Personal Brand
 
-- [ ] Read articles about selecting a domain (paid) or subdomain (free) and building your personal brand:
+- Read articles about selecting a domain (paid) or subdomain (free) and building your personal brand:
 
 - [ ] https://www.wired.com/brandlab/2016/06/how-to-choose-the-right-domain-name/
 
 - [ ]  https://webdesign.tutsplus.com/tutorials/the-seriously-comprehensive-guide-to-choosing-a-web-host--cms-25430
 - [ ] https://www.themuse.com/advice/the-absolute-best-way-to-figure-out-your-personal-brand
+- [ ] http://www.pwc.com/us/en/careers/campus/assets/img/programs/personal-brand-workbook.pdf
 
 - [ ] Watch these videos:
 - https://www.youtube.com/watch?v=iNkxfbJoe2Y
+-
 
 ### Domain Registrars and Hosting Companies
 
@@ -40,10 +42,6 @@ Usually bundling all three will yield you a better price, but not always.
 Google Domains provides the private service for free (currently with each domain registration)
 
 - https://domains.google.com/registrar
-
-
- - [ ] Complete the [Closures lesson][udacity]
- -
 - https://whois.icann.org/en/domain-name-registration-process
 
 #### FREE vs. PAID WEB HOSTING
@@ -58,6 +56,7 @@ FREE WEB HOSTING
 
 - https://www.wix.com/
 - https://www.000webhost.com/
+- https://x10hosting.com/
 - https://www.5gbfree.com/
 - https://www.weebly.com/features/free-web-hosting
 - https://www.one.com/en/ (this one provides 25 gigs but is only free for one year)
@@ -99,12 +98,23 @@ Medium is also useful to driving traffic to your own site(s). Don't forget that 
 
 Document which techniques you will use for your own website to rank higher in search engine results.
 
+## FTP
+
+Use the following tutorials to learn all about FTP (file transfer protocol)
+
+- [ ] Read [What is FTP?](http://www.ftpx.com/ftpintro.aspx)
+- [ ] Read [What is FTP, and how do I use it to transfer files?](https://kb.iu.edu/d/aerg)
+- [ ] Read [Active FTP vs. Passive FTP, a Definitive Explanation](http://slacksite.com/other/ftp.html)
+- [ ] Read [FTP Clients for Mac Users](http://www.callingallgeeks.org/7-ftp-clients-for-mac-users/)
+- [ ] Read [FileZilla](https://www.reddit.com/r/seedboxes/comments/2v3ucp/is_filezilla_the_best_ftp_for_osx/)
+
 ## Notes and Understanding
 
 Do you know/understand:
 
 - What types of domains are there?
 - What is DNS and why is it important?
+- How to set up an FTP client?
 - What is SEO and why is it important?
 -
 
