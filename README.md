@@ -107,7 +107,7 @@ Whenever I'm in a pinch for ideas and am not using WordPress, I go to these site
 - https://www.bypeople.com/one-page-html-templates/
 -
 
-## DNS (domain name service)
+## DNS (Domain Name Service)
 
 - [ ] Read [DNS Tutorials](http://help.dnsmadeeasy.com/view-tutorials/)
 - [ ] Read [How To Point a Domain Name to Your Site](http://sitebeginner.com/domains/domaintosite/)
